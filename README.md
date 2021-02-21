@@ -30,6 +30,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShehanSanjula&repo=shehansanjula.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<!-- If want to hide!! 
+<a href="https://github.com/ShehanSanjula/ShehanSanjula">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShehanSanjula&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> -->
+
 <a href="https://github.com/ShehanSanjula/Linux-Kernal-Exploits">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShehanSanjula&repo=Linux-Kernal-Exploits&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
