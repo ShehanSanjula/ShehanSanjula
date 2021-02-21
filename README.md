@@ -34,6 +34,23 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShehanSanjula&repo=Linux-Kernal-Exploits&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+### Connect with me:
+
+[<img align="left" alt="shehansanjula.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Shehan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Shehan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Shehan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br  />
+<br  />
+
+---
+
+[website]: https://shehansanjula.github.io/
+[facebook]: https://www.facebook.com/shehansanjula66
+[instagram]: https://www.instagram.com/shehansanjula66
+[linkedin]: https://lk.linkedin.com/in/shehansanjula
+
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
