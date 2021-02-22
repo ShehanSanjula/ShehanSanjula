@@ -17,7 +17,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/linux?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/linux-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 
 ![](https://img.shields.io/badge/Burp-Suite-informational?style=flat&logo=burp-suite&logoColor=white&color=2bbc8a)
