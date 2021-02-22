@@ -16,7 +16,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Adobe-Photoshop-informational?style=flat&logo=photoshop&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Adobe-Photoshop-informational?style=flat&logo=adobeillustrator&logoColor=white&color=2bbc8a)
 
 <img align="left" alt="JAVA" width="26px" src="https://simpleicons.org/icons/java.svg"/>
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
