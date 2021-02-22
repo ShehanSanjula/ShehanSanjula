@@ -16,6 +16,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/linux?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+
+
 ![](https://img.shields.io/badge/Burp-Suite-informational?style=flat&logo=burp-suite&logoColor=white&color=2bbc8a)
 
 <img align="left" alt="JAVA" width="26px" src="https://simpleicons.org/icons/java.svg"/>
@@ -29,7 +33,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />  
 
+<br/> 
 <br/>
+
+---
 
 ## &#x1f4c8; GitHub Stats
 
