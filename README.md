@@ -69,6 +69,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [<img align="left" alt="Shehan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Shehan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Shehan | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][GitHub]
+[<img align="left" alt="Shehan | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][Telegram]
 
 <br  />
 <br  />
@@ -82,6 +83,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [instagram]: https://www.instagram.com/shehansanjula66
 [linkedin]: https://lk.linkedin.com/in/shehansanjula
 [GitHub]: https://github.com/ShehanSanjula
+[Telegram]: https://t.me/shehansanjula
 
 <!-- icons with padding -->
 
