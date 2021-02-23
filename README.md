@@ -58,8 +58,12 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <img align="left" alt="Cisco" width="26px" src="https://simpleicons.org/icons/cisco.svg" />
 <img align="left" alt="Coursera" width="26px" src="https://simpleicons.org/icons/coursera.svg" />
 <img align="left" alt="Fortinet" width="26px" src="https://simpleicons.org/icons/fortinet.svg" />
-<img align="left" alt="OWASP" width="26px" src="https://simpleicons.org/icons/owasp.svg" />
-<img align="left" alt="OWASP" width="26px" src="https://simpleicons.org/icons/owasp.svg" />
+<img align="left" alt="IBM" width="26px" src="https://simpleicons.org/icons/ibm.svg" />
+<img align="left" alt="AWS-Academy" width="26px" src="https://simpleicons.org/icons/amazonaws.svg" />
+<img align="left" alt="VMware" width="26px" src="https://simpleicons.org/icons/vmware.svg" />
+<img align="left" alt="hackthebox" width="26px" src="https://simpleicons.org/icons/hackthebox.svg" />
+<img align="left" alt="tryhackme" width="26px" src="https://simpleicons.org/icons/tryhackme.svg" />
+
 <br/> 
 <br/>
 
