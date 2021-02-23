@@ -19,7 +19,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Sublime-Text-informational?style=flat&logo=sublime-text&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Visual-Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Notepad-Plus-informational?style=flat&logo=notepadplusplus&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Notepad-Plus-informational?style=flat&logo=notepad-plusplus&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Notepad-plus-informational?style=flat&logo=notepadplusplus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
