@@ -19,9 +19,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Sublime-Text-informational?style=flat&logo=sublime-text&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Visual-Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Notepad-Plus-informational?style=flat&logo=notepad-plus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Virtual-Box-informational?style=flat&logo=virtualbox&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Xampp-Server-informational?style=flat&logo=xampp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Microsoft-SQLServer-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2bbc8a)
@@ -34,7 +32,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="C" width="26px" src="https://simpleicons.org/icons/c.svg">
 <img align="left" alt="C++" width="26px" src="https://simpleicons.org/icons/cplusplus.svg">
-<img align="left" alt="Python" width="26px" src="https://simpleicons.org/icons/python.svg">
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img align="left" alt="PHP" width="26px" src="https://simpleicons.org/icons/php.svg">
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
