@@ -20,6 +20,9 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Xampp-Server-informational?style=flat&logo=xampp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Microsoft-Sql Server-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Microsoft-Office-informational?style=flat&logo=microsoftoffice&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Adobe-Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Adobe-Illustrator-informational?style=flat&logo=adobe-illustrator&logoColor=white&color=2bbc8a)
 
