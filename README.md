@@ -48,9 +48,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <!-- <br  />
 <br  /> -->
 
-</hr align = "center">
-
-<!-- ---  -->
+---
 
 <img align="left" alt="OWASP" width="26px" src="https://simpleicons.org/icons/owasp.svg" />
 <img align="left" alt="Windows-Terminal" width="26px" src="https://simpleicons.org/icons/windowsterminal.svg" />
