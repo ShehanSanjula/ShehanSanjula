@@ -20,6 +20,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Sublime-Text-informational?style=flat&logo=sublime-text&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Visual-Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Virtual-Box-informational?style=flat&logo=virtualbox&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Wire-shark-informational?style=flat&logo=wireshark&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Xampp-Server-informational?style=flat&logo=xampp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Microsoft-SQLServer-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2bbc8a)
