@@ -28,10 +28,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Adobe-Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Adobe-Illustrator-informational?style=flat&logo=adobe-illustrator&logoColor=white&color=2bbc8a)
 
-
-<br  />
-<br  />
-
 ---
 
 <img align="left" alt="JAVA" width="26px" src="https://simpleicons.org/icons/java.svg">
@@ -69,7 +65,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <img align="left" alt="hackthebox" width="26px" src="https://simpleicons.org/icons/hackthebox.svg" />
 <img align="left" alt="tryhackme" width="26px" src="https://simpleicons.org/icons/tryhackme.svg" />
 
-<br  />
 <br  />
 
 ---
