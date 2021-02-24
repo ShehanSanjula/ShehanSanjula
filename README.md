@@ -65,6 +65,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <img align="left" alt="hackthebox" width="26px" src="https://simpleicons.org/icons/hackthebox.svg" />
 <img align="left" alt="tryhackme" width="26px" src="https://simpleicons.org/icons/tryhackme.svg" />
 
+---
+
 <br/> 
 <br/>
 
