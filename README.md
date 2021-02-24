@@ -47,7 +47,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <br  />
 
----
+<!-- ---  -->
 
 <img align="left" alt="OWASP" width="26px" src="https://simpleicons.org/icons/owasp.svg" />
 <img align="left" alt="Windows-Terminal" width="26px" src="https://simpleicons.org/icons/windowsterminal.svg" />
@@ -63,10 +63,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <img align="left" alt="VMware" width="26px" src="https://simpleicons.org/icons/vmware.svg" />
 <img align="left" alt="hackthebox" width="26px" src="https://simpleicons.org/icons/hackthebox.svg" />
 <img align="left" alt="tryhackme" width="26px" src="https://simpleicons.org/icons/tryhackme.svg" />
-
-<br  />
-
----
 
 <!--<br/> 
 <br/> -->
