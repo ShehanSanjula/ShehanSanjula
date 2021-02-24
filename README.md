@@ -4,7 +4,7 @@
 
 # Hello, folks! <img src="https://github.com/ShehanSanjula/ShehanSanjula/blob/main/wave.gif" width="30px">
 
-My name is Shehan Sanjula and I'm a <u> Cyber Security Undergraduate </u>. I'm from Sri Lanka, living in Colombo and currently studying at SLIIT. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Shehan Sanjula and I'm a <u> Cyber Security Undergraduate. </u> I'm from Sri Lanka, living in Colombo and currently studying at SLIIT. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## &#x270d; Blog & Writing
 
