@@ -95,9 +95,9 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ### Connect with me: 
 
 [<img align="left" alt="shehansanjula.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Shehan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][Facebook]
 [<img align="left" alt="Shehan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.12.0/icons/twitter.svg" />][Twitter]
 [<img align="left" alt="Shehan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+[<img align="left" alt="Shehan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][Facebook]
 [<img align="left" alt="Shehan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 [<img align="left" alt="Shehan | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][GitHub]
 [<img align="left" alt="Shehan | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][Telegram]
