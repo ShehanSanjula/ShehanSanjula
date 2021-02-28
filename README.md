@@ -95,9 +95,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ### Connect with me: 
 
 [<img align="left" alt="shehansanjula.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Shehan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Shehan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Shehan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Shehan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+[<img align="left" alt="Shehan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.12.0/icons/twitter.svg" />][Twitter]
+[<img align="left" alt="Shehan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][Facebook]
+[<img align="left" alt="Shehan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 [<img align="left" alt="Shehan | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][GitHub]
 [<img align="left" alt="Shehan | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][Telegram]
 
@@ -108,10 +109,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <!-- links to social media icons -->
 
-[website]: https://shehansanjula.github.io/
-[facebook]: https://www.facebook.com/shehansanjula66
-[instagram]: https://www.instagram.com/shehansanjula66
-[linkedin]: https://lk.linkedin.com/in/shehansanjula
+[Website]: https://shehansanjula.github.io/
+[Facebook]: https://www.facebook.com/shehansanjula66
+[Instagram]: https://www.instagram.com/shehansanjula66
+[LinkedIn]: https://lk.linkedin.com/in/shehansanjula
+[Twitter]: https://twitter.com/ShehanSanjula1
 [GitHub]: https://github.com/ShehanSanjula
 [Telegram]: https://t.me/shehansanjula
 
