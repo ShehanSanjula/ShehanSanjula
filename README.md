@@ -97,6 +97,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ![counter](https://encfj4mzyq9wi1l.m.pipedream.net)
 
+![](https://komarev.com/ghpvc/?username=ShehanSanjula&style=flat-square)
+
 ### Connect with me: 
 
 [<img align="left" alt="shehansanjula.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
