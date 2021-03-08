@@ -97,8 +97,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ![counter](https://encfj4mzyq9wi1l.m.pipedream.net)
 
-![](https://img.shields.io/badge/Profile_Views-Since_2021-informational?style=flat&logo=github&logoColor=white)
-
 ### Connect with me: 
 
 [<img align="left" alt="shehansanjula.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
