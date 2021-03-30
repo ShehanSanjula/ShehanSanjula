@@ -97,6 +97,13 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ![counter](https://encfj4mzyq9wi1l.m.pipedream.net)
 
+<div align="center">
+Feel free to give Your Suggestions, Issues or PRs 🌍 <br  /> <br  />
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+<br  /> <br  />
+<a href="https://www.buymeacoffee.com/shehansanjula" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="120" ></a>
+</div>
+
 ### Connect with me: 
 
 [<img align="left" alt="shehansanjula.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -124,14 +131,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [Reddit]: https://www.reddit.com/user/shehansanjula
 [Telegram]: https://t.me/shehansanjula
 
-<div align="center">
-Feel free to give Your Suggestions, Issues or PRs 🌍 <br  /> <br  />
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-<br  /> <br  />
-<a href="https://www.buymeacoffee.com/shehansanjula" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="120" ></a>
-</div>
-
----
 
 <!-- icons with padding -->
 
