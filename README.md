@@ -103,7 +103,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 Feel free to give Your Suggestions, Issues or PRs 🌍 <br  /> <br  />
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <br  /> <br  />
-<a href="https://www.buymeacoffee.com/shehansanjula" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="120" ></a>
+<a target="_blank" href="https://www.buymeacoffee.com/shehansanjula"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="120" > </a>
 </div> 
 
 ---
