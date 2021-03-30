@@ -122,8 +122,8 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <br  />
 <br  />
 
-<!-- --- -->
 ---
+
 <!-- links to social media icons -->
 
 [Website]: https://shehansanjula.github.io/
