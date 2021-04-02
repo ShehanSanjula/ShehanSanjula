@@ -117,6 +117,7 @@ If you like what I do, maybe consider buying me a coffee/tea. 🥺👉👈
 [<img align="left" alt="Shehan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 [<img align="left" alt="Shehan | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.12.0/icons/reddit.svg" />][Reddit]
 [<img align="left" alt="Shehan | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][GitHub]
+[<img align="left" alt="Shehan | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spotify.svg" />][Spotify]
 [<img align="left" alt="Shehan | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][Telegram]
 
 <br  />
@@ -133,6 +134,7 @@ If you like what I do, maybe consider buying me a coffee/tea. 🥺👉👈
 [Twitter]: https://twitter.com/ShehanSanjula1
 [GitHub]: https://github.com/ShehanSanjula
 [Reddit]: https://www.reddit.com/user/shehansanjula
+[Spotify]: spotify:user:ip9f60og0yurxj331vfr1gml1
 [Telegram]: https://t.me/shehansanjula
 
 
