@@ -134,7 +134,7 @@ If you like what I do, maybe consider buying me a coffee/tea. 🥺👉👈
 [Twitter]: https://twitter.com/ShehanSanjula1
 [GitHub]: https://github.com/ShehanSanjula
 [Reddit]: https://www.reddit.com/user/shehansanjula
-[Spotify]: spotify:user:ip9f60og0yurxj331vfr1gml1
+[Spotify]: https://open.spotify.com/user/ip9f60og0yurxj331vfr1gml1?si=5zcjAF1vSa-SeG4ma7-Bzg
 [Telegram]: https://t.me/shehansanjula
 
 
@@ -158,6 +158,8 @@ If you like what I do, maybe consider buying me a coffee/tea. 🥺👉👈
 <!-- Resources -->
 
 <!-- Icons: https://simpleicons.org/ -->
+
+<!-- Icons: https://cdn.jsdelivr.net/ -->
 
 <!-- Emojis: https://emojipedia.org/emoji/ -->
 
