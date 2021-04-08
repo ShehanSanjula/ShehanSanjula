@@ -111,7 +111,7 @@ If you like what I do, maybe consider buying me a coffee/tea. 🥺👉👈
 ### Connect with me: 
 
 [<img align="left" alt="https://shehansanjula.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Shehan | blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/blogger.svg>][blog]
+[<img align="left" alt="Shehan | blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/blogger.svg" />][blog]
 [<img align="left" alt="Shehan | Bing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/bing.svg" />][Bing]
 [<img align="left" alt="Shehan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.12.0/icons/twitter.svg" />][Twitter]
 [<img align="left" alt="Shehan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
