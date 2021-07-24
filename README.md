@@ -1,6 +1,6 @@
 <!-- READEME.me: Shehan Sanjula -->
 
-[![Header](https://raw.githubusercontent.com/ShehanSanjula/ShehanSanjula/main/shehan%20github%20banner.png "Header")](https://shehansanjula.github.io/)
+[![Header](https://raw.githubusercontent.com/ShehanSanjula/ShehanSanjula/main/shehan%20github%20banner.png "Shehan's Portfolio Website")](https://shehansanjula.github.io/)
 
 # Hello, folks! <img src="https://github.com/ShehanSanjula/ShehanSanjula/blob/main/wave.gif" width="30px">
 
