@@ -73,7 +73,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/ShehanSanjula/ShehanSanjula">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShehanSanjula&include_repo=shehansanjula.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShehanSanjula&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/ShehanSanjula/ShehanSanjula">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShehanSanjula&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Shehan Sanjula's GitHub Stats" />
