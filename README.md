@@ -80,7 +80,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 </a>
 
 <a href="https://github.com/ShehanSanjula/shehansanjula.me-public-beta-release">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShehanSanjula&repo=shehansanjula.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShehanSanjula&repo=shehansanjula.me-public-beta-release&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <!-- If it wants to hide!! 
