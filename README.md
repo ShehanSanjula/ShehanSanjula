@@ -121,6 +121,10 @@ If you like what I do, maybe consider buying me a coffee/tea. 🥺👉👈
 [<img align="left" alt="Shehan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 [<img align="left" alt="Shehan | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.12.0/icons/reddit.svg" />][Reddit]
 [<img align="left" alt="Shehan | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][GitHub]
+[<img align="left" alt="Shehan | EPICGAMES" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/epicgames.svg" />][EPICGAMES]
+[<img align="left" alt="Shehan | STEAM" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/steam.svg" />][STEAM]
+[<img align="left" alt="Shehan | gog.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/gogdotcom.svg" />][gog.com]
+[<img align="left" alt="Shehan | Ubisoft" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/ubisoft.svg" />][Ubisoft]
 [<img align="left" alt="Shehan | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spotify.svg" />][Spotify]
 [<img align="left" alt="Shehan | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][Telegram]
 
@@ -139,11 +143,14 @@ If you like what I do, maybe consider buying me a coffee/tea. 🥺👉👈
 [Twitter]: https://twitter.com/ShehanSanjula1
 [GitHub]: https://github.com/ShehanSanjula
 [Reddit]: https://www.reddit.com/user/shehansanjula
-[Spotify]: https://open.spotify.com/user/ip9f60og0yurxj331vfr1gml1?si=5zcjAF1vSa-SeG4ma7-Bzg
 [Bing]: https://www.bing.com/public/ShehanSanjula1
 [Academia]: https://sliit.academia.edu/ShehanSanjula
+[EPICGAMES]: 
+[STEAM]: https://steamcommunity.com/id/shehansanjula
+[gog.com]: https://www.gog.com/u/shehansanjula
+[Ubisoft]: 
+[Spotify]: https://open.spotify.com/user/ip9f60og0yurxj331vfr1gml1?si=5zcjAF1vSa-SeG4ma7-Bzg
 [Telegram]: https://t.me/shehansanjula
-
 
 <!-- icons with padding -->
 
