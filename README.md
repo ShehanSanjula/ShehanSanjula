@@ -145,10 +145,10 @@ If you like what I do, maybe consider buying me a coffee/tea. 🥺👉👈
 [Reddit]: https://www.reddit.com/user/shehansanjula
 [Bing]: https://www.bing.com/public/ShehanSanjula1
 [Academia]: https://sliit.academia.edu/ShehanSanjula
-[EPICGAMES]: 
+[EPICGAMES]: https://www.epicgames.com
 [STEAM]: https://steamcommunity.com/id/shehansanjula
 [gog.com]: https://www.gog.com/u/shehansanjula
-[Ubisoft]: 
+[Ubisoft]: https://www.ubisoft.com/en-us
 [Spotify]: https://open.spotify.com/user/ip9f60og0yurxj331vfr1gml1?si=5zcjAF1vSa-SeG4ma7-Bzg
 [Telegram]: https://t.me/shehansanjula
 
