@@ -126,6 +126,7 @@ If you like what I do, maybe consider buying me a coffee/tea. 🥺👉👈
 [<img align="left" alt="Shehan | gog.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/gogdotcom.svg" />][gog.com]
 [<img align="left" alt="Shehan | Ubisoft" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/ubisoft.svg" />][Ubisoft]
 [<img align="left" alt="Shehan | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spotify.svg" />][Spotify]
+[<img align="left" alt="Shehan | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/discord.svg" />][Discord]
 [<img align="left" alt="Shehan | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][Telegram]
 
 <br  />
@@ -150,6 +151,7 @@ If you like what I do, maybe consider buying me a coffee/tea. 🥺👉👈
 [gog.com]: https://www.gog.com/u/shehansanjula
 [Ubisoft]: https://www.ubisoft.com/en-us
 [Spotify]: https://open.spotify.com/user/ip9f60og0yurxj331vfr1gml1?si=5zcjAF1vSa-SeG4ma7-Bzg
+[Discord]: https://discordapp.com/users/677875797658435584
 [Telegram]: https://t.me/shehansanjula
 
 <!-- icons with padding -->
