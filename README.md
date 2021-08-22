@@ -8,7 +8,7 @@ My name is Shehan Sanjula and I'm a <u> Cyber Security Undergraduate. </u> I'm f
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [Shehan Sanjula](https://shehansanjula.github.io/) as well as on [Blog of Shehan](https://blog.shehansanjula.me) , [Medium](https://shehansanjula.medium.com) , and [TechNews.LK](https://technews.lk/author/shehansanjula/).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [Shehan Sanjula](https://shehansanjula.github.io/) as well as on [Blog of Shehan](https://blog.shehansanjula.me), [Medium](https://shehansanjula.medium.com), and [TechNews.LK](https://technews.lk/author/shehansanjula/).
 
 ## 🔧 Technologies & Tools
 
