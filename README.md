@@ -163,9 +163,11 @@ If you like what I do, maybe consider buying me a coffee/tea. 🥺👉👈
 
 <!-- icons without padding -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (Shehan's Twitter Profile) <!-- twitter icon without padding -->
+[1.2]: http://i.imgur.com/wWzX9uB.png (Shehan's Twitter Profile)
+<!-- twitter icon without padding -->
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://github.com/ShehanSanjula/ShehanSanjula/blob/main/linkedin-3-16.png (Shehan's LinkedIn Profile) <!-- LinkedIn icon without padding -->
+ <!-- LinkedIn icon without padding -->
+[3.2]: https://github.com/ShehanSanjula/ShehanSanjula/blob/main/linkedin-3-16.png (Shehan's LinkedIn Profile)
 
 <!-- links to your social media accounts -->
 
