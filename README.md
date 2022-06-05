@@ -2,7 +2,7 @@
 
 [![Header](https://raw.githubusercontent.com/ShehanSanjula/ShehanSanjula/main/shehan%20github%20banner.png "Shehan's Portfolio Website")](https://shehansanjula.github.io/)
 
-# Hello, folks! <img src="https://github.com/ShehanSanjula/ShehanSanjula/blob/main/wave.gif" width="30px" height="20px">
+# Hello, folks! <img src="https://github.com/ShehanSanjula/ShehanSanjula/blob/main/wave.gif" width="30px" height="25px">
 
 My name is Shehan Sanjula. I am working as a Associate Information Security Engineer at Sri Lanka CERT | CC. I am reading my BSc (Hons) in Information Technology Specialising in Cyber Security at SLIIT. I am from Sri Lanka, living in Colombo. </br> You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
