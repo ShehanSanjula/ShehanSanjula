@@ -88,7 +88,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <!-- If it wants to hide!! 
 <a href="https://github.com/ShehanSanjula/ShehanSanjula">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShehanSanjula&hide=java,HTML,c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShehanSanjula&hide=java,HTML&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> -->
 
 <a href="https://github.com/ShehanSanjula/Linux-Kernel-Exploits">
