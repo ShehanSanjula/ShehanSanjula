@@ -4,7 +4,7 @@
 
 # Hello, folks! <img src="https://github.com/ShehanSanjula/ShehanSanjula/blob/main/wave.gif" width="30px" height="28px">
 
-My name is Shehan Sanjula. I work as an Information Security Engineer at Sri Lanka CERT | CC. I graduated with a Bachelor of Science (Special Honors) in Information Technology, specializing in Cyber Security, from the Sri Lanka Institute of Information Technology. I am currently pursuing a Master of Information Security Degree Programme at the University of Colombo. I am from Sri Lanka and I live in Colombo. </br> You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Shehan Sanjula. I work as an Information Security Engineer at Sri Lanka CERT | CC. I graduated with a Bachelor of Science (Special Honors) in Information Technology, specializing in Cyber Security, from the Sri Lanka Institute of Information Technology. I am currently pursuing a Master of Information Security Degree Programme at the University of Colombo. I am from Sri Lanka and I live in Colombo. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## &#x270d; Blog & Writing
 
