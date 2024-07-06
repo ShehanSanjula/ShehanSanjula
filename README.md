@@ -55,6 +55,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <img align="left" alt="OWASP" width="26px" src="https://simpleicons.org/icons/owasp.svg" />
 <img align="left" alt="Windows-Terminal" width="26px" src="https://simpleicons.org/icons/windowsterminal.svg" />
+
+<svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-brand-powershell"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M4.887 20h11.868c.893 0 1.664 -.665 1.847 -1.592l2.358 -12c.212 -1.081 -.442 -2.14 -1.462 -2.366a1.784 1.784 0 0 0 -.385 -.042h-11.868c-.893 0 -1.664 .665 -1.847 1.592l-2.358 12c-.212 1.081 .442 2.14 1.462 2.366c.127 .028 .256 .042 .385 .042z" /><path d="M9 8l4 4l-6 4" /><path d="M12 16h3" /></svg>
 <img align="left" alt="Windows-Terminal" width="26px" src="https://simpleicons.org/icons/powershell.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Bugcrowd" width="26px" src="https://simpleicons.org/icons/bugcrowd.svg" />
