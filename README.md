@@ -60,13 +60,13 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <img align="left" alt="PowerShell" width="26px" src="https://www.svgrepo.com/show/473762/powershell.svg" />
 <img align="left" alt="Bugcrowd" width="26px" src="https://simpleicons.org/icons/bugcrowd.svg" />
 <img align="left" alt="Hackerone" width="26px" src="https://simpleicons.org/icons/hackerone.svg" />
-<img align="left" alt="EC-Council" width="28px" src="https://avatars.githubusercontent.com/u/53864074?s=200&v=4" />
+<img align="left" alt="EC-Council" width="35px" src="https://avatars.githubusercontent.com/u/53864074?s=200&v=4" />
 <img align="left" alt="Cisco" width="26px" src="https://simpleicons.org/icons/cisco.svg" />
 <img align="left" alt="Coursera" width="26px" src="https://simpleicons.org/icons/coursera.svg" />
 <img align="left" alt="Fortinet" width="26px" src="https://simpleicons.org/icons/fortinet.svg" />
 <img align="left" alt="IBM" width="26px" src="https://www.svgrepo.com/show/353894/ibm.svg" />
 <img align="left" alt="AWS-Academy" width="26px" src="https://simpleicons.org/icons/amazonwebservices.svg" />
-<img align="left" alt="VMware" width="28px" src="https://simpleicons.org/icons/vmware.svg" />
+<img align="left" alt="VMware" width="26px" src="https://www.svgrepo.com/show/473827/vmware.svg" />
 <img align="left" alt="hackthebox" width="26px" src="https://simpleicons.org/icons/hackthebox.svg" />
 <img align="left" alt="tryhackme" width="26px" src="https://simpleicons.org/icons/tryhackme.svg" />
 
