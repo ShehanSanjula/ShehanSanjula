@@ -150,7 +150,7 @@ If you like what I do, maybe consider buying me a coffee/tea. 🥺👉👈
 <!-- links to social media icons -->
 
 [Website]: https://shehansanjula.github.io/
-[blog]: https://blog.shehan.live
+[blog]: https://blog.shehan.engineer
 [Facebook]: https://www.facebook.com/shehansanjula66
 [Instagram]: https://www.instagram.com/shehansanjula66
 [LinkedIn]: https://lk.linkedin.com/in/shehansanjula
