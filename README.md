@@ -65,7 +65,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <img align="left" alt="Coursera" width="26px" src="https://simpleicons.org/icons/coursera.svg" />
 <img align="left" alt="Fortinet" width="26px" src="https://simpleicons.org/icons/fortinet.svg" />
 <img align="left" alt="IBM" width="26px" src="https://www.svgrepo.com/show/353894/ibm.svg" />
-<img align="left" alt="AWS-Academy" width="26px" src="https://simpleicons.org/icons/amazonwebservices.svg" />
+<img align="left" alt="Cloudflare" width="26px" src="https://simpleicons.org/icons/cloudflare.svg" />
 <img align="left" alt="VMware" width="26px" src="https://www.svgrepo.com/show/448684/vmware.svg" />
 <img align="left" alt="hackthebox" width="26px" src="https://simpleicons.org/icons/hackthebox.svg" />
 <img align="left" alt="tryhackme" width="26px" src="https://simpleicons.org/icons/tryhackme.svg" />
