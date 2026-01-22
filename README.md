@@ -84,17 +84,12 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   <img align="center" src="https://github-readme-stats-shehan.vercel.app/api?username=ShehanSanjula&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Shehan Sanjula's GitHub Stats" />
 </a>
 
-<a href="https://github.com/ShehanSanjula/shehansanjula.me-public-beta-release">
-  <img align="center" src="https://github-readme-stats-shehan.vercel.app/api/pin/?username=ShehanSanjula&repo=shehansanjula.me-public-beta-release&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/shehansanjula/Sri-Lanka-Income-Tax-Calculator">
+  <img align="center" src="https://github-readme-stats-shehan.vercel.app/api/pin/?username=shehansanjula&repo=Sri-Lanka-Income-Tax-Calculator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<!-- If it wants to hide!! 
-<a href="https://github.com/ShehanSanjula/ShehanSanjula">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShehanSanjula&hide=java,HTML&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> -->
-
-<a href="https://github.com/ShehanSanjula/Sri-Lanka-Income-Tax-Calculator">
-  <img align="center" src="https://github-readme-stats-shehan.vercel.app/api/pin/?username=ShehanSanjula&repo=Sri-Lanka-Income-Tax-Calculator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/ShehanSanjula/shehansanjula.me-public-beta-release">
+  <img align="center" src="https://github-readme-stats-shehan.vercel.app/api/pin/?username=ShehanSanjula&repo=shehansanjula.me-public-beta-release&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/ShehanSanjula/Spam-Email-Filtering-System-Public">
