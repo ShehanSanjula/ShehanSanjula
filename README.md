@@ -94,7 +94,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 </a> -->
 
 <a href="https://github.com/ShehanSanjula/Linux-Kernel-Exploits">
-  <img align="center" src="https://github-readme-stats-shehan.vercel.app/api/pin/?username=ShehanSanjula&repo=Linux-Kernel-Exploits&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-shehan.vercel.app/api/pin/?username=ShehanSanjula&repo=Sri-Lanka-Income-Tax-Calculator)&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/ShehanSanjula/Spam-Email-Filtering-System-Public">
