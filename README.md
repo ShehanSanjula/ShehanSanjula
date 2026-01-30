@@ -8,7 +8,7 @@ My name is Shehan Sanjula. I work as an Information Security Engineer at Sri Lan
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [Shehan Sanjula](https://shehansanjula.github.io/) as well as on [Blog of Shehan](https://blog.shehan.live), [Medium](https://shehansanjula.medium.com), and [TechNews.LK](https://technews.lk/author/shehansanjula/).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [Shehan Sanjula](https://shehansanjula.github.io/) as well as on [Blog of Shehan](https://shehansanjula.github.io/blog/), [Medium](https://shehansanjula.medium.com), and [TechNews.LK](https://technews.lk/author/shehansanjula/).
 
 ## 🔧 Technologies, Tools & Certs
 
