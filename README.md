@@ -149,7 +149,7 @@ If you like what I do, maybe consider buying me a coffee/tea. 🥺👉👈
 [Facebook]: https://www.facebook.com/shehansanjula66
 [Instagram]: https://www.instagram.com/shehansanjula66
 [LinkedIn]: https://lk.linkedin.com/in/shehansanjula
-[Twitter]: https://twitter.com/ShehanSanjula1
+[Twitter]: https://x.com/shehansanjula66
 [GitHub]: https://github.com/ShehanSanjula
 [Reddit]: https://www.reddit.com/user/shehansanjula
 [Bing]: https://www.bing.com/public/ShehanSanjula1
@@ -178,7 +178,7 @@ If you like what I do, maybe consider buying me a coffee/tea. 🥺👉👈
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/ShehanSanjula1
+[1]: https://x.com/shehansanjula66
 [2]: https://github.com/ShehanSanjula
 [3]: https://lk.linkedin.com/in/shehansanjula
 
